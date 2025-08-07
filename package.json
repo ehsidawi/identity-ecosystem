@@ -11,11 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",
+    "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "keycloak-connect": "^26.1.1",
     "openid-client": "^6.6.3",
     "passport": "^0.7.0"
-  },
-  "devDependencies": {}
+  }
 }
